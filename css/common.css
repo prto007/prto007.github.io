@@ -1,0 +1,73 @@
+<style type="text/css">
+
+<!--
+
+
+body,td,th {
+	font-family: NanumGothic;
+	font-size: 12px;
+	color: #FFFFFF;
+	
+}
+a:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+a:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+a:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+a:active {
+	text-decoration: none;
+	color: #ffffff;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #ffffff;
+}
+
+.company {
+    text-shadow:0px 1px 0px #000000;
+	color: #19a176;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: NanumGothic;
+	}
+	.company2 {
+    text-shadow:0px 1px 0px #FFFFFF;
+	color: #000000;
+	font-size: 15px;
+	font-weight: 500;
+	font-family: NanumGothic;
+	}
+	.company3 {
+    text-shadow:0px 1px 0px #FFFFFF;
+	color: #000000;
+	font-size: 18px;
+	font-weight: 500;
+	font-family: NanumGothic;
+	}
+
+
+
+.top_menu img {margin-right:1px;}
+.top_menu .btn_t01 {display:inline-block;border-radius:0px;padding:24px 31px 24px 31px;font-weight:600;color:#ffffff;text-align:center;margin-left:0px; font-size: 16px; text-shadow:0px 1px 0px #000000;}
+.top_menu .btn_t01:hover, 
+.top_menu .btn_t01.on {background:#d20605;color:#ffffff;}
+
+.join_btn {
+	padding: 13px 0px; border-radius: 50px; width: 100%;border: #e73b54 3px solid;background-image:url('../images/sub_bg.png'); color: #ffffff; font-weight:bold;  border-image: none; letter-spacing: 0px; font-family: "NanumGothic", sans-serif; font-size: 40px; display: inline-block; cursor: hand;
+}
+
+
+
+-->
+
+</style>
